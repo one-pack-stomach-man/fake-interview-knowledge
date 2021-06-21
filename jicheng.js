@@ -117,4 +117,9 @@ console.log(dog2.eat()); // 输出dog2 is eatting
 
 
 
+console.log(111)
+
+/**
+ * @desc: 寄生组合继承
+ */
 
